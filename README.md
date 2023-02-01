@@ -4,6 +4,11 @@
 
 ## 2. Visualization
 
-### 2.1 Plot Types
+### 2.1 Plot 
 
-### 2.2 Color setting
+### 2.2 Table
+
+Create Nice HTML Table with knitr::kable and kableExtra:  
+https://cran.r-project.org/web/packages/kableExtra/vignettes/awesome_table_in_html.html 
+
+### 2.3 Color setting
