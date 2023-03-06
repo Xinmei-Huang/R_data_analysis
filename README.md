@@ -11,4 +11,6 @@
 Create Nice HTML Table with knitr::kable and kableExtra:  
 https://cran.r-project.org/web/packages/kableExtra/vignettes/awesome_table_in_html.html 
 
-### 2.3 Color setting
+### 2.3 Color setting   
+https://tmieno2.github.io/R-as-GIS-for-Economists/color-scale.html    
+
